@@ -1,4 +1,8 @@
-qwewqeq
-adfsaf
-asfdsaf
-asdfas
+QWERTY
+
+
+Function B() {
+	line1B
+	line2B
+	line3B
+}
