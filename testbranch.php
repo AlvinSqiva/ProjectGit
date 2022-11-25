@@ -6,3 +6,12 @@ Function A() {
 	line2
 	line3
 }
+
+QWERTY
+
+
+Function B() {
+	line1B
+	line2B
+	line3B
+}
